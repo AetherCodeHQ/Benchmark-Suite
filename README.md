@@ -23,12 +23,12 @@ Every developer needs benchmark suite — but existing tools are either too comp
 
 ## Features
 
-- **CPU/Memory benchmarks** — CPU/Memory benchmarks
-- **Network throughput testing** — Network throughput testing
-- **Disk I/O benchmarks** — Disk I/O benchmarks
-- **Comparison reports** — Comparison reports
-- **CI/CD integration** — CI/CD integration
-- **CLI interface** — CLI interface
+- CPU/Memory benchmarks
+- Network throughput testing
+- Disk I/O benchmarks
+- Comparison reports
+- CI/CD integration
+- CLI interface
 
 ## Quick Start
 
